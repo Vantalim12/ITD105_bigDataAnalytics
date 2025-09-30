@@ -9,7 +9,8 @@ This project implements a comprehensive Exploratory Data Analysis (EDA) dashboar
 ### Run the program
 
 - python -m streamlit run student_performance.py
-
+### Demo Video
+https://github.com/user-attachments/assets/30f25138-9d22-4c1d-92b5-a08ca1ab16ae
 ### Basic Requirements
 
 - [x] Load the dataset into the Streamlit app
@@ -239,3 +240,4 @@ If you encounter any issues or have questions:
 ---
 
 **Good luck with your ITD105 lab exercise! 🚀**
+
